@@ -128,7 +128,7 @@ nav ul li a:hover{
 }
 
 /* Step 3: Write selector/rule property to style all elements when in focus*/
-a:focus{
+:focus{
   border: 2px solid;
 }
 
